@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LondonStockExchange", "LondonStockExchange\LondonStockExchange.csproj", "{7E7DC550-8FCF-4737-A2E7-9EA5E9876FB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LondonStockExchange.Tests", "LondonStockExchange.Tests\LondonStockExchange.Tests.csproj", "{06E8FF5B-3267-477A-B45C-C3D9E7289861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E7DC550-8FCF-4737-A2E7-9EA5E9876FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7DC550-8FCF-4737-A2E7-9EA5E9876FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7DC550-8FCF-4737-A2E7-9EA5E9876FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7DC550-8FCF-4737-A2E7-9EA5E9876FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E8FF5B-3267-477A-B45C-C3D9E7289861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E8FF5B-3267-477A-B45C-C3D9E7289861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E8FF5B-3267-477A-B45C-C3D9E7289861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E8FF5B-3267-477A-B45C-C3D9E7289861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D02880F-673D-4F8D-A6DF-A39DCCF494CA}
+	EndGlobalSection
+EndGlobal

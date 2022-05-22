@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LondonStockExchange", "LondonStockExchange\LondonStockExchange.csproj", "{7E7DC550-8FCF-4737-A2E7-9EA5E9876FB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LondonStockExchange", "LondonStockExchange\LondonStockExchange.csproj", "{7E7DC550-8FCF-4737-A2E7-9EA5E9876FB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LondonStockExchange.Tests", "LondonStockExchange.Tests\LondonStockExchange.Tests.csproj", "{06E8FF5B-3267-477A-B45C-C3D9E7289861}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LondonStockExchange.Tests", "LondonStockExchange.Tests\LondonStockExchange.Tests.csproj", "{06E8FF5B-3267-477A-B45C-C3D9E7289861}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
